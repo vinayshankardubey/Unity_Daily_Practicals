@@ -18,5 +18,17 @@
    
    
    Practical 7 : Storing Game Objects in an Array,
+   
+   
+   Practical 8 : Script to change cubes to random colors in each main loop
+   
+   
+   Practical 9 : Adding a RigidBody to a Game Object using Script
+   
+   
+   Practical 10 :  Modify the physics material of a game object.
+   
+   
+   Practical  11 : Script to modify properties of a game object to which it is attached.
            
 
