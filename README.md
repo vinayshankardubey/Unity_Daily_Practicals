@@ -29,6 +29,10 @@
    Practical 10 :  Modify the physics material of a game object.
    
    
-   Practical  11 : Script to modify properties of a game object to which it is attached.
+   Practical 11 : Script to modify properties of a game object to which it is attached.
            
+   Practical 12 : Script to modify properties of a game object to which it is attached
+  
+   Practical 13 : Exposing a variable for bounciness 
+
 
