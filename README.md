@@ -34,5 +34,7 @@
    Practical 12 : Script to modify properties of a game object to which it is attached
   
    Practical 13 : Exposing a variable for bounciness 
+   
+   Practical 14 : Practical on Time.deltaTime()
 
 
