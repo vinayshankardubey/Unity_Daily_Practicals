@@ -7,7 +7,6 @@ public class Practical16 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
         StartCoroutine("waitForASecond");
         
     }
@@ -21,5 +20,7 @@ public class Practical16 : MonoBehaviour
     yield return new WaitForSeconds(5f);
 
     print("Coroutines Done");
+
+    
     }
 }
